@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XLHGvwY8MEN0XFcwvvDHqDM57AD0HQ/EvkWGOu0dTWrCV81WB3nzD+nYBJirGNGHQKITRolUxSJhkAk1pg0Wxw==",
+  "success": true,
+  "projectFilePath": "/home/dash/dev/cs/large/Kondital/Kondital.csproj",
+  "expectedPackageFiles": [
+    "/home/dash/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
