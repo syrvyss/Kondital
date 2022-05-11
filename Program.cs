@@ -11,4 +11,8 @@
             double Maxpuls = Convert.ToInt16(Console.ReadLine());
         }
     }
+
+    class Kondital {
+        
+    }
 }
